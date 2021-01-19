@@ -1,0 +1,3 @@
+<!--美容院数据库地址-->
+server=xxxx;port=3306;database=PMMSD;uid=xxxx;pwd=xxxx
+    
